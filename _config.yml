@@ -1,0 +1,28 @@
+name: circlesquarearchitects.com/contacts
+favicon: null
+layout_spectrum: 0.6295910133048892
+typography_spectrum: 0.48733978369273245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.25174810411408544
+  lightness: 0.17180615453980863
+  saturation: 0.34795395843684673
+  rhythmicContrast: 0.0682127452455461
+purpose: []

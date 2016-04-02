@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Circle Square Architects, LLC'
-datePublished: '2016-04-02T20:39:09.910Z'
-dateModified: '2016-04-02T20:38:51.700Z'
+datePublished: '2016-04-02T20:41:15.889Z'
+dateModified: '2016-04-02T20:41:10.472Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-02-circle-square-architects-llc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-circle-square-architects-llc.md
-published: true
 url: circle-square-architects-llc/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a233ea06-dae1-4be2-875f-6b1105d2dca7.jpg)
+
 Circle Square Architects, LLC
 
 Timothy J. Black, AIA, NCARB, LEED BD+C

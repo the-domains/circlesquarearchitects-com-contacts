@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[circlesquarearchitects.com/contacts]]></title>
         <description><![CDATA[circlesquarearchitects.com/contacts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/circlesquarearchitects-com-contacts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 20:39:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 20:41:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/circlesquarearchitects-com-contacts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Circle Square Architects, LLC</p>]]></description>
-            <link>undefinedcircle-square-architects-llc/index.html</link>
+            <link>https://thegrid.ai/circlesquarearchitects-com-contacts/circle-square-architects-llc/index.html</link>
             <guid isPermaLink="false">f12eb94e-1d27-4eed-bd80-188fbfeb92d9</guid>
-            <pubDate>Sat, 02 Apr 2016 20:39:09 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 20:41:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

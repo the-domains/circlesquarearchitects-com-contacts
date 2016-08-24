@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Circle Square Architects, LLC'
-datePublished: '2016-08-19T01:15:15.855Z'
-dateModified: '2016-08-19T01:14:40.520Z'
+datePublished: '2016-08-24T17:39:33.166Z'
+dateModified: '2016-08-24T17:39:21.386Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-02-circle-square-architects-llc.md
@@ -18,7 +18,7 @@ url: circle-square-architects-llc/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ebb9e0a-c78c-478c-8a3f-f46e8abb281f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5ef44e6-7e19-4b36-9a12-9b90b958e0f6.jpg)
 
 Circle Square Architects, LLC
 

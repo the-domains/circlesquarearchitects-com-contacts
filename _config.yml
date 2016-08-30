@@ -1,4 +1,32 @@
-purpose: []
+typography_spectrum: 0.4873397836927325
+color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#c4e2f8'
+    - '#6e6c6d'
+    - '#0c2223'
+    - '#ff0020'
+    - '#0095fb'
+  lightness: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1741855
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1abce059-ecb2-4eae-9826-7e8e79357f70.jpg
+name: circlesquarearchitects.com/contacts
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +39,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#c4e2f8'
-    - '#6e6c6d'
-    - '#0c2223'
-    - '#ff0020'
-    - '#0095fb'
-  lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: circlesquarearchitects.com/contacts
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4873397836927325
-layout_spectrum: 0.1741855
+purpose: []
